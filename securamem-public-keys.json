@@ -1,0 +1,13 @@
+{
+  "exported_at": "2025-10-20T04:52:19.205Z",
+  "exporter": "SecuraMem Key Management",
+  "keys": [
+    {
+      "key_id": "server_2025-10-20T04-51-22-140Z",
+      "key_type": "ed25519_server_signing",
+      "fingerprint": "d870deeac602a4a32110490b8b94945267d1c16f2402cc93e04cf10baac98923",
+      "created_ts": "2025-10-20T04:51:22.140Z",
+      "status": "active"
+    }
+  ]
+}
